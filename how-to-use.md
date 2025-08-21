@@ -9,7 +9,7 @@ This repository contains a ready-to-use **GitHub Profile README** template you c
 When someone visits your GitHub profile, you can display a special `README.md`.  
 This acts like your personal homepage inside GitHub.
 
-A strong profile README:
+A strong profile `README` will achieve the following:
 - Gives context about **who you are** and what you care about.
 - Highlights your **skills, tools, and projects** in a polished way.
 - Creates a **great first impression** for employers, collaborators, or anyone stumbling upon your work.
