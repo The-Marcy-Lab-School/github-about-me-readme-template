@@ -1,3 +1,4 @@
+[Read the `how-to-use.md` first](./how-to-use.md) 
 # Hi, I'm [Your Name] 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=355E3B&width=900&lines=[Your+Tagline]+;[Another+Line];[Something+Fun+About+You])](https://git.io/typing-svg)
